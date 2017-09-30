@@ -6,5 +6,5 @@ class Dog
     else
       @breed=bread
     end
-  end 
+  end
 end
