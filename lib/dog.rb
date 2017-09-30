@@ -1,5 +1,5 @@
 class Dog
-  def initialize(name,breed=nil)
+  def initialize(name,breed="Mutt")
     @name=name
     if breed.empty?
       @breed="Mutt"
